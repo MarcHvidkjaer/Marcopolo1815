@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Marcopolo1815
-- 👀 I’m interested in social science.
-- 🌱 I’m currently learning to code.
 - 📫 How to reach me: marchvidkjaer@gmail.com
 
 <!---
